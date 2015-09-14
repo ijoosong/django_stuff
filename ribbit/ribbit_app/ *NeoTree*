@@ -1,0 +1,14 @@
+</git-repos/django_stuff/ribbit/
+ ribbit/
+   __init__.py
+   settings.py
+   urls.py
+   wsgi.py
+ ribbit_app/
+   migrations/
+   __init__.py
+   admin.py
+   models.py
+   tests.py
+   views.py
+ manage.py
